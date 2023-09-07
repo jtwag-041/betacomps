@@ -12,7 +12,7 @@ The output table includes:
 - tax rate (4-yr average)
 - unlevered beta
 
-Demo of 11 non-grocery retailers listed on TSX. Computed in ~20 sec (click on GIF to enlarge view in new tab)
+Demo of 11 non-grocery retailers listed on TSX. Computed in ~20 sec (click on GIF to enlarge view in new tab).
 
 ![runtointeractive_betacomps](https://github.com/jtwag-041/betacomps/assets/48776287/940fac68-666e-4a39-bd44-9ee4915a0845)
 
