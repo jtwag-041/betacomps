@@ -12,9 +12,9 @@ The output table includes:
 - tax rate (4-yr average)
 - unlevered beta
 
+Demo
 
-
-
+![runtointeractive_betacomps](https://github.com/jtwag-041/betacomps/assets/48776287/709280db-1cea-4df6-99ef-84e4787c640b)
 
 Note: if levered beta is not found, levered beta and unlevered beta = 0. If debt = 0, both debt ratios will = 0.
 
