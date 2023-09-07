@@ -12,7 +12,7 @@ The output table includes:
 - tax rate (4-yr average)
 - unlevered beta
 
-Demo
+Demo (click on GIF to enlarge view in new tab)
 
 ![runtointeractive_betacomps](https://github.com/jtwag-041/betacomps/assets/48776287/709280db-1cea-4df6-99ef-84e4787c640b)
 
